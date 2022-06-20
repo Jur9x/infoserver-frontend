@@ -1,0 +1,16 @@
+.col{
+    color: black;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+a:hover{
+    color: black !important;
+}
+
+.nadpis{
+    color: black;
+    font-size: 30px;
+}
